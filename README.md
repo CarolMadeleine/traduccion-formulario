@@ -1,12 +1,12 @@
 ##LECCIÓN 24:
 
-####Contexto: Cambio de inglés a español
+####Contexto: Cambio de formulario de inglés a español
 
 ###Imagen Inicial
 ![Leccion 24](http://i63.tinypic.com/2mwxic0.jpg)
 
 Cambio:
-Se eleimino el var para que cuando se ejucute la función no lea la asigación de feature callbacks. Si no lea de la variable global feature clousures y muestre le mensaje que se pide.
+Se genero un cambio del formulario de ingles a español.
 
 ###Pseudocódigo:
 1. document.getElementById('form-signin-heading').innerHTML = "Por favor inicie sesión" ;
